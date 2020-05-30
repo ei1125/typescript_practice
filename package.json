@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ei1125/typescript_practice/issues"
   },
-  "homepage": "https://github.com/ei1125/typescript_practice#readme"
+  "homepage": "https://github.com/ei1125/typescript_practice#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
