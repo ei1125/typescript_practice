@@ -1,5 +1,7 @@
 export {};
 
+//オブジェクトの型を作ることができる
+
 type ObjectType = {
   name: string;
   age: number;
